@@ -1,0 +1,22 @@
+@media only screen and (max-width:1200px){
+
+}
+@media only screen and (max-width:1023px){
+      .row h1{
+      	 margin-left: 2px;
+      }
+      .btn{
+      	margin-left: 2%;
+      }
+}
+@media only screen and (max-width:767px){
+     .row h1{
+     	  margin-left: 2%;
+     }
+     .p-long{
+     	margin-left: 2%;
+     }
+}
+@media only screen and (max-width:480px){
+
+}
